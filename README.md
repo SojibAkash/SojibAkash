@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SojibAkash
-- 👀 I’m interested in ...Learning 
+- 👀 I’m interested in ...System Administration
 - 🌱 I’m currently learning ...Python Programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
