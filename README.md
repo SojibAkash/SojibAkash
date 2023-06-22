@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SojibAkash
 - 👀 I’m interested in ...System Administration
-- 🌱 I’m currently learning ...Python Programming language
+- 🌱 I’m currently learning ...DevOps Tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
